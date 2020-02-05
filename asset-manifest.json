@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kanusobti/CityBikes/static/css/main.b20de872.chunk.css",
-    "main.js": "/kanusobti/CityBikes/static/js/main.7b4a4d8f.chunk.js",
-    "main.js.map": "/kanusobti/CityBikes/static/js/main.7b4a4d8f.chunk.js.map",
-    "runtime-main.js": "/kanusobti/CityBikes/static/js/runtime-main.748cff2e.js",
-    "runtime-main.js.map": "/kanusobti/CityBikes/static/js/runtime-main.748cff2e.js.map",
-    "static/js/2.a099788b.chunk.js": "/kanusobti/CityBikes/static/js/2.a099788b.chunk.js",
-    "static/js/2.a099788b.chunk.js.map": "/kanusobti/CityBikes/static/js/2.a099788b.chunk.js.map",
-    "index.html": "/kanusobti/CityBikes/index.html",
-    "precache-manifest.a18318f2035366ad8e25376ea04444f5.js": "/kanusobti/CityBikes/precache-manifest.a18318f2035366ad8e25376ea04444f5.js",
-    "service-worker.js": "/kanusobti/CityBikes/service-worker.js",
-    "static/css/main.b20de872.chunk.css.map": "/kanusobti/CityBikes/static/css/main.b20de872.chunk.css.map",
-    "static/js/2.a099788b.chunk.js.LICENSE.txt": "/kanusobti/CityBikes/static/js/2.a099788b.chunk.js.LICENSE.txt"
+    "main.css": "/CityBikes/static/css/main.0a7d0319.chunk.css",
+    "main.js": "/CityBikes/static/js/main.cbb5a47c.chunk.js",
+    "main.js.map": "/CityBikes/static/js/main.cbb5a47c.chunk.js.map",
+    "runtime-main.js": "/CityBikes/static/js/runtime-main.9665e1d7.js",
+    "runtime-main.js.map": "/CityBikes/static/js/runtime-main.9665e1d7.js.map",
+    "static/js/2.5bb2e150.chunk.js": "/CityBikes/static/js/2.5bb2e150.chunk.js",
+    "static/js/2.5bb2e150.chunk.js.map": "/CityBikes/static/js/2.5bb2e150.chunk.js.map",
+    "index.html": "/CityBikes/index.html",
+    "precache-manifest.e607588ec900ab3740ef4ec364b0629d.js": "/CityBikes/precache-manifest.e607588ec900ab3740ef4ec364b0629d.js",
+    "service-worker.js": "/CityBikes/service-worker.js",
+    "static/css/main.0a7d0319.chunk.css.map": "/CityBikes/static/css/main.0a7d0319.chunk.css.map",
+    "static/js/2.5bb2e150.chunk.js.LICENSE.txt": "/CityBikes/static/js/2.5bb2e150.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.748cff2e.js",
-    "static/js/2.a099788b.chunk.js",
-    "static/css/main.b20de872.chunk.css",
-    "static/js/main.7b4a4d8f.chunk.js"
+    "static/js/runtime-main.9665e1d7.js",
+    "static/js/2.5bb2e150.chunk.js",
+    "static/css/main.0a7d0319.chunk.css",
+    "static/js/main.cbb5a47c.chunk.js"
   ]
 }
